@@ -1,6 +1,6 @@
 ### Project brif
 
-Project Minecraft-panda is an education and research project which is a combination of physical Robotic and minecraft simulation. The idea is like the movie Inside out, there is a brainless Panda, we let kids to act like panda's brain in order to control the panda collectively.
+Project [Minecraft-panda](https://www.youtube.com/watch?v=ZadYTQywSmQ&t=7s) is an education and research project which is a combination of physical Robotic and minecraft simulation. The idea is like the movie Inside out, there is a brainless Panda, we let kids to act like panda's brain in order to control the panda collectively.
 
 The project is done by Joseph and Mark in FACT Gallary, Liverpool.
 
