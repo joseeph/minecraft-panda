@@ -1,4 +1,4 @@
-### Project brif
+### Project bref
 
 Project [Minecraft-panda](https://www.youtube.com/watch?v=pWAI-8pQspk) is an education and research project which is a combination of physical Robotic and minecraft simulation. The idea is like the movie Inside out, there is a brainless Panda, we let kids to act like panda's brain in order to control the panda collectively.
 
