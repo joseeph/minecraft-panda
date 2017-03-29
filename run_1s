@@ -1,0 +1,20 @@
+import pi2go, time
+
+#======================================================================
+# Reading single character by forcing stdin to raw mode
+import sys
+import tty
+import termios
+
+speed = 50
+
+pi2go.init()
+
+t_end=time.time() +0.5
+
+while time.time() < t_end:
+	pi2go.forward(speed)
+	print 'Forward', speed
+	
+pi2go.stop()
+exit()
