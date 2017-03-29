@@ -1,6 +1,6 @@
 ### Project brif
 
-Project [Minecraft-panda](https://www.youtube.com/watch?v=ZadYTQywSmQ&t=7s) is an education and research project which is a combination of physical Robotic and minecraft simulation. The idea is like the movie Inside out, there is a brainless Panda, we let kids to act like panda's brain in order to control the panda collectively.
+Project [Minecraft-panda](https://www.youtube.com/watch?v=pWAI-8pQspk) is an education and research project which is a combination of physical Robotic and minecraft simulation. The idea is like the movie Inside out, there is a brainless Panda, we let kids to act like panda's brain in order to control the panda collectively.
 
 The project is done by Joseph and Mark in FACT Gallary, Liverpool.
 
@@ -9,8 +9,8 @@ The project is done by Joseph and Mark in FACT Gallary, Liverpool.
 [RF-Craft](https://github.com/cheapjack/RF-Craft)by Ross was the main reference of this project, we mainly using the python library called [MC-PI](https://github.com/martinohanlon/mcpi) to do the minecraft coding.
 
 ### Architecture
-![Image](/img/Minecraft Panda.003.jpeg)
-![Image](/img/Minecraft Panda.006.jpeg)
+![Image](/img/MinecraftPanda.003.jpeg)
+![Image](/img/MinecraftPanda.006.jpeg)
 
 like the photo shows, the physical Robotic Panda it self as the minecraft server, the server serves the huge virtual panda, the interesting thing is that it is kind of the real inside out, once you getting into the physical panda.
 
