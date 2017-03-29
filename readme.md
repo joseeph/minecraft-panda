@@ -9,8 +9,8 @@ The project is done by Joseph and Mark in FACT Gallary, Liverpool.
 [RF-Craft](https://github.com/cheapjack/RF-Craft)by Ross was the main reference of this project, we mainly using the python library called [MC-PI](https://github.com/martinohanlon/mcpi) to do the minecraft coding.
 
 ### Architecture
-![Image](..img/Minecraft Panda.003.jpeg)
-![Image](..img/Minecraft Panda.006.jpeg)
+![Image](img/Minecraft Panda.003.jpeg)
+![Image](img/Minecraft Panda.006.jpeg)
 
 like the photo shows, the physical Robotic Panda it self as the minecraft server, the server serves the huge virtual panda, the interesting thing is that it is kind of the real inside out, once you getting into the physical panda.
 
